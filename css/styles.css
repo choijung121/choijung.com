@@ -155,6 +155,12 @@ img{
 }
 
 /*projects*/
+.subtitleProjects{
+  padding-right: 20px;
+}
+.projectExperience{
+  padding-right: 20px; 
+}
 .progress{
   font-size: 10px;
 }
