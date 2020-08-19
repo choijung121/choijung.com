@@ -164,7 +164,7 @@ img{
 }
 
 .gridContainer{
-  padding-right: 95px; 
+  padding-right: 95px;
 }
 .container{
   display: grid;
@@ -193,9 +193,8 @@ img{
 }
 
 /*Footer*/
-.footer{
+footer{
   text-align: center;
-
 }
 
 /* Phone Styles */
