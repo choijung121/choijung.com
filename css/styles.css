@@ -155,12 +155,10 @@ img{
 }
 
 /*projects*/
-.subtitleProjects{
-  padding-left: 20px;
+.subtitleProjects, .line, .projectExperience{
+  padding-left: 50px;
 }
-.projectExperience{
-  padding-left: 20px;
-}
+
 .progress{
   font-size: 10px;
 }
